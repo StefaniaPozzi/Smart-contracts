@@ -1,5 +1,5 @@
 {
-  "name": "hardhat fundme",
+  "name": "fund-me",
   "author": "stefaniaPozzi",
   "devDependencies": {
     "@chainlink/contracts": "^0.6.0",
